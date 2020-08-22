@@ -1,0 +1,10 @@
+div {
+  display: block;
+}
+
+span {
+  display: inline-block;
+  width: auto;
+  height: 30px;
+  background-color: wheat;
+}
